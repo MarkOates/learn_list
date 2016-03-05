@@ -19,7 +19,7 @@
 - e - move to the end of the word
 - w - jump word
 
-### Web
+### Know Web Tools
 - Know *Developer Mode* on Chrome
 - Option+Command+U - view source
 - Option+Command+I - toggle developer mode
