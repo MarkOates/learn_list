@@ -4,6 +4,7 @@
 - Ctrl-w - close the current window
 - Ctrl-q - close and shutdown the current running program
 - Command-tab - switch between programs
+- Command-, - program options
 
 ### Know Iterm 2
 - ctrl-d - Split the pane
@@ -20,6 +21,7 @@
 
 ### Web
 - Know *Developer Mode* on Chrome
+- Option+Command+U - view source
 - Option+Command+I - toggle developer mode
 - Commnad+Shift+M - toggle mobile view (while in developer mode)
 
