@@ -7,7 +7,7 @@
 - Command-, - program options
 
 ### Know Iterm 2
-- ctrl-d - Split the pane
+- command-d - Split the pane
 - command-[ command-] - switch between panes
 - command-t - Create a new tab
 - ctrl-tab - Switch between tabs
@@ -30,7 +30,7 @@
 
 ### Know Markdown
 - `[link alt text](http://linkurl.com)`
-- `[optional image alt text](http://imageurl.com/img.png)
+- `[optional image alt text](http://imageurl.com/img.png)`
 
 ### Know Heroku
 - `heroku login`
