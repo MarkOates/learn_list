@@ -18,6 +18,7 @@
   - Know `ctags`
     - Ctrl+] - jump to the definition of the symbol
     - Ctrl+o - return to the previously jumped-from location
+    - use [gem-ctags](https://github.com/tpope/gem-ctags)
 - Ctrl-n - Auto-complete
 - e - move to the end of the word
 - w - jump word
