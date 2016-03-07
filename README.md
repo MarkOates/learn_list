@@ -15,6 +15,9 @@
 ### Know Vim
 - Know [keyboard shortcuts](https://raw.githubusercontent.com/livingsocial/ls-pair/master/cheat_sheets/vim%20movement%20shortcuts.png)
 - Know and use plugins
+  - Know `ctags`
+    - Ctrl+] - jump to the definition of the symbol
+    - Ctrl+o - return to the previously jumped-from location
 - Ctrl-n - Auto-complete
 - e - move to the end of the word
 - w - jump word
