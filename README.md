@@ -14,6 +14,7 @@
 - command-t - Create a new tab
 X ctrl-tab - Switch between tabs
 - command-shift-t - toggle showing tabs in fullscreen mode
+- command-shift-enter - temporaily toggle pane/fullscreen
 
 ### Know Vim
 - Know [keyboard shortcuts](https://raw.githubusercontent.com/livingsocial/ls-pair/master/cheat_sheets/vim%20movement%20shortcuts.png)
