@@ -7,10 +7,13 @@
 - Command-, - program options
 
 ### Know Iterm 2
-- command-d - Split the pane
+- command-d - Split the pane vertically
+- command-shift-d - Split the pane horizontally
 - command-[ command-] - switch between panes
+- command-shift-[ command-shift-] - switch between tabs
 - command-t - Create a new tab
-- ctrl-tab - Switch between tabs
+X ctrl-tab - Switch between tabs
+- command-shift-t - toggle showing tabs in fullscreen mode
 
 ### Know Vim
 - Know [keyboard shortcuts](https://raw.githubusercontent.com/livingsocial/ls-pair/master/cheat_sheets/vim%20movement%20shortcuts.png)
