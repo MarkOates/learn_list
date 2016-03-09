@@ -26,6 +26,7 @@ X ctrl-tab - Switch between tabs
 - Ctrl-n - Auto-complete
 - e - move to the end of the word
 - w - jump word
+- gv - reselect the previous selection (from visual mode)
 
 ### Know Web Tools
 - Know *Developer Mode* on Chrome
