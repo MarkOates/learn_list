@@ -23,6 +23,8 @@ X ctrl-tab - Switch between tabs
     - Ctrl+] - jump to the definition of the symbol
     - Ctrl+o - return to the previously jumped-from location
     - use [gem-ctags](https://github.com/tpope/gem-ctags)
+  - Know `ctrlp`
+    - fn+F5 - refresh the `ctrlp` file listing
 - Ctrl-n - Auto-complete
 - e - move to the end of the word
 - w - jump word
