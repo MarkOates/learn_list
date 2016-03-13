@@ -56,3 +56,6 @@ X ctrl-tab - Switch between tabs
 - Ctrl-z - background the current process
 - ctrl-c - kill the current running process
 - ctrl-r - reverse search
+
+### Know C
+- Use `const char *`, `char *`, and `printf` family of functions with confidence.
